@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "0.1.0",
+  "description": "This is a simple weather webapp",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "grunt": "~0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackiebrwn/weatherapp.git"
+  },
+  "author": "David Elutilo -- delutilo.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackiebrwn/weatherapp/issues"
+  },
+  "homepage": "https://github.com/blackiebrwn/weatherapp"
+}

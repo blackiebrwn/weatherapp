@@ -8,6 +8,7 @@
   "description": "This is a simple weather app",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "~3.3.4"
+    "bootstrap": "~3.3.4",
+    "requirejs-plugins": "~1.0.3"
   }
 }
